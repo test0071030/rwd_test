@@ -50,7 +50,6 @@
         display: inline-block;
         width:100vw;
         left:0;
-        min-height: 120vw;
     }
 
     #homepage_middle_sync{
@@ -178,6 +177,7 @@
         display: inline-block;
         width:100vw;
         left:0;
+        min-height: 120vw;
     }
 
     #homepage_middle_sync{
